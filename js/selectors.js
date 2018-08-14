@@ -1,4 +1,5 @@
 // declare your functions here...
-function paragraphSelector() {
-  return ${'p'}
+function paragrahSelector() {
+  var para = ${'p'}.innerHTML;
+  return ${para}
 }
